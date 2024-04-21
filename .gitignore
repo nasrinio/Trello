@@ -139,3 +139,4 @@ dist
 config.env
 config
 config/
+package-lock.json
