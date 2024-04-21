@@ -4,7 +4,7 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 /config
-/config/*.env
+
 
 # Other files and folders
 .settings/
@@ -20,3 +20,4 @@ bin-release/
 # information for Eclipse / Flash Builder.
 /config
 /config/*.env
+/config/config.env
